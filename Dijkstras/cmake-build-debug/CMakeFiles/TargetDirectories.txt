@@ -1,0 +1,3 @@
+/Users/arufer/ECS36C/ecs36c_phw5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arufer/ECS36C/ecs36c_phw5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arufer/ECS36C/ecs36c_phw5/cmake-build-debug/CMakeFiles/p5.dir
